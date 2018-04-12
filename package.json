@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-dash",
+  "name": "bitcore-build-gobyte",
   "version": "0.9.0",
-  "description": "A helper for common tasks to build bitcore-dash modules'",
+  "description": "A helper for common tasks to build bitcore-gobyte modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dashpay/bitcore-build-dash"
+    "url": "git://github.com/gobytecoin/bitcore-build-gobyte"
   },
   "keywords": [
     "bitcore"
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dashpay/bitcore-build-dash/issues"
+    "url": "https://github.com/gobytecoin/bitcore-build-gobyte/issues"
   },
-  "homepage": "https://github.com/dashpay/bitcore-build-dash",
+  "homepage": "https://github.com/gobytecoin/bitcore-build-gobyte",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
