@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gobytecoin/bitcore-build-gobyte"
+    "url": "git://github.com/apollomatheus/bitcore-build-gobyte"
   },
   "keywords": [
     "bitcore"
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gobytecoin/bitcore-build-gobyte/issues"
+    "url": "https://github.com/apollomatheus/bitcore-build-gobyte/issues"
   },
-  "homepage": "https://github.com/gobytecoin/bitcore-build-gobyte",
+  "homepage": "https://github.com/apollomatheus/bitcore-build-gobyte",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
